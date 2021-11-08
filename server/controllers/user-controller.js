@@ -1,5 +1,4 @@
 // import user model
-const { getSingleUser, createUser, login, saveBook, deleteBook } = require('../../../../../Downloads/Book-Search-main/Book-Search-main/server/controllers/user-controller');
 const { User } = require('../models');
 // import sign token function from auth
 const { signToken } = require('../utils/auth');
