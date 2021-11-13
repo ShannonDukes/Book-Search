@@ -70,4 +70,4 @@ const resolvers = {
     }
 };
 
-module.exports = resolver;
+module.exports = resolvers;
